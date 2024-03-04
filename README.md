@@ -13,7 +13,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INatanDev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=INatanDev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-<a href="https://stardev.io/developers/INatanDev"><img alt="Check out INatanDev's profile on stardev.io"         src="https://stardev.io/developers/INatanDev/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/INatanDev"><img alt="Check out INatanDev&apos;s profile on stardev.io" src="https://stardev.io/developers/INatanDev/badge/languages/locality.svg" /></a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=INatanDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
